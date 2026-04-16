@@ -1,5 +1,5 @@
 public class CamelCaseConverter {
-    public static String toCamelCase(String str) {
+    public static String converter(String str) {
         if (str == null || str.isEmpty()) {
             return "";
         }
